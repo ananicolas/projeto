@@ -1,7 +1,7 @@
 criaCartao(
     'Matemática',
     'Como monta uma equação do 3° grau?',
-    'ax³+bx²+cx+d=0, com a ≠ 0 e raízes x1, x2 e x3'
+    'ax³+bx²+cx+d=0, com a ≠ 0 e raízes x1, x2 e x3.'
 )
 
 criaCartao(
@@ -13,25 +13,25 @@ criaCartao(
 criaCartao(
     'Matemática',
     'Quanto é 56 divido por 7?',
-    '8'
+    '8.'
 )
 
 criaCartao(
     'Matemática',
     'O PI é um número racional ou irracional?',
-    'Irracional'
+    'Irracional.'
 )
 
 criaCartao(
     'Matemática',
     'Como também é chamado o perímetro de um círculo?',
-    'Circunferência'
+    'Circunferência.'
 )
 
 criaCartao(
     'História',
     'Quem descobriu o Brasil?',
-    'Pedro Álvares Cabral'
+    'Pedro Álvares Cabral.'
 )
 
 criaCartao(
@@ -49,19 +49,19 @@ criaCartao(
 criaCartao(
     'História',
     'Quais foram as duas potências que disputavam no contexto da Guerra Fria?',
-    'Os Estados Unidos e a União Soviética'
+    'Os Estados Unidos e a União Soviética.'
 )
 
 criaCartao(
     'História',
     'Quais eram os países do Eixo?',
-    'Alemanha, Italia e Japão'
+    'Alemanha, Italia e Japão.'
 )
 
 criaCartao(
     'Química',
     'Qual é a fórmula química da água?',
-    'Dois átomos de Hidrogênio e um átomo de oxigênio (H2O)'
+    'Dois átomos de Hidrogênio e um átomo de oxigênio (H2O).'
 )
 
 criaCartao(
@@ -79,19 +79,19 @@ criaCartao(
 criaCartao(
     'Química',
     'Quais são as principais funções oxigenadas?',
-    'O álcool, o Enol e o Fenol'
+    'O álcool, o Enol e o Fenol.'
 )
 
 criaCartao(
     'Química',
     'O que são transformações endotérmicas?',
-    'Aquelas que absorvem o calor'
+    'Aquelas que absorvem o calor.'
 )
 
 criaCartao(
     'Geografia',
     'Qual é a camada mais profunda e quente da Terra?',
-    'O Núcleo interno'
+    'O Núcleo interno.'
 )
 
 criaCartao(
@@ -106,4 +106,14 @@ criaCartao(
     'Energia Eólica, Energia Solar e Energia Hidráulica.'
 )
 
-criaCartao()
+criaCartao(
+    'Geografia',
+    'Qual é o rio mais longo do mundo?',
+    'O Rio Nilo.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que são as ilhas de calor?',
+    'Zonas de elevadas temperaturas, quando comparadas com as regiões ao seu redor.'
+)
