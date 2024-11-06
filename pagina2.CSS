@@ -42,6 +42,7 @@ footer{
     background-color: var(--cartao-frente);
     color: var(--branco);
     box-shadow: 12px -10px 5px var(--preto);
+    cursor: pointer;
 }
 
 .resposta-cartao{
@@ -51,5 +52,5 @@ footer{
 
 .conteudo-cartao;:hover{
     transform: scale(1.04);
-    
+
 }
